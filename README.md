@@ -7,4 +7,4 @@ Usando um modelo de classificação, conseguimos categorizar o sentimento dos tw
   - Navegue até a pasta <i>Dash</i>
   - Execute o notebook <i>Main dash.ipynb</i> para obter e visualizar os resultados sobre a análise do primeiro turno e, o <i>Dash_segundo_turno.ipynb</i> para obter e visualizar os resultados da análise do segundo turno.  
 
-<b>Autores:</b> Adriano Santana, Jefferson Costa, Bruno, Matheus
+<b>Autores:</b> Adriano Santana, Jefferson Costa, Bruno Mesquista, Matheus Barbosa
