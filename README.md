@@ -4,7 +4,7 @@ Utilizamos a rede social Twitter, para extrair dados sobre o que os usuários es
 Usando um modelo de classificação, conseguimos categorizar o sentimento dos tweets em neutro, positivo e negativo. Assim conseguimos entender um pouco melhor como está a popularidade de cada candidato dentro dessa rede social.
 
 <b>Instruções para visualização dos resultados:</b>
-  - Navegue a té a pasta <i>Dash</i>
+  - Navegue até a pasta <i>Dash</i>
   - Execute o notebook <i>Main dash.ipynb</i> para obter e visualizar os resultados sobre a análise do primeiro turno e, o <i>Dash_segundo_turno.ipynb</i> para obter e visualizar os resultados da análise do segundo turno.  
 
 <b>Autores:</b> Adriano Santana, Jefferson Costa, Bruno, Matheus
